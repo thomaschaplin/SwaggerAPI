@@ -1,4 +1,7 @@
 # Swagger API
+
+[![Build Status](https://travis-ci.com/thomaschaplin/SwaggerAPI.svg?branch=master)](https://travis-ci.com/thomaschaplin/SwaggerAPI)
+
 Swagger REST Service built on Spring Boot
 
 ## Setup
